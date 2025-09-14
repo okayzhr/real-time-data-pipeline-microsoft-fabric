@@ -1,10 +1,8 @@
-# real-time-data-pipeline-microsoft-fabric
-
-# 📊 Real-Time Data Pipeline met Microsoft Fabric
+#  # 🚖Real-Time Data Pipeline met Microsoft Fabric# 🚖
 
 Welkom bij dit project waarin we een end-to-end **real-time data pipeline** hebben gebouwd met behulp van **Microsoft Fabric**. Dit project is uitgevoerd als onderdeel van een data engineering traject, met focus op moderne architectuurprincipes zoals de **Medallion Architecture**.
 
-## 🧠 Over het project
+##  Over het project
 
 Het doel van dit project was om een schaalbare en geïntegreerde gegevensverwerkingspipeline te bouwen, die real-time data kan verwerken van binnenkomst tot visualisatie. Door verschillende componenten binnen Microsoft Fabric slim te combineren, hebben we een systeem opgezet dat volledig binnen één platform draait.
 

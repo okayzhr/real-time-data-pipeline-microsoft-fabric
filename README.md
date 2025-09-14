@@ -1,4 +1,6 @@
-#  # 🚖Real-Time Data Pipeline met Microsoft Fabric# 🚖
+![Uber Clone](https://img.shields.io/badge/Uber%20Clone-Fabric-blueviolet?style=for-the-badge&logo=uber)
+ 
+🚖🚖Real-Time Data Pipeline met Microsoft Fabric🚖🚖
 
 Welkom bij dit project waarin we een end-to-end **real-time data pipeline** hebben gebouwd met behulp van **Microsoft Fabric**. Dit project is uitgevoerd als onderdeel van een data engineering traject, met focus op moderne architectuurprincipes zoals de **Medallion Architecture**.
 
